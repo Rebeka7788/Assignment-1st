@@ -1,0 +1,33 @@
+h1{
+	color: red;
+	font-size: 40px;
+	margin: 0px;
+}
+span{
+	text-transform: capitalize;
+}
+p{
+	font-size: 20px;
+}
+div{
+	width: 900px;
+	margin: auto;
+	background-color: #c7ecee;
+	padding: 70px;
+	text-align: center;
+}
+a{
+	background-color: blue;
+	font-size: 20px;
+	text-transform: capitalize;
+	padding: 10px;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+img{
+	display: block;
+	width: 300px;
+	margin: auto;
+	border-radius: 50%;
+	object-fit: cover;
+}
